@@ -1,0 +1,7 @@
+purchase_year,nike_share_of_foot_locker_purchases_pct,metric,source_url,md_line,annual_change_pp
+2019,71,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000085020920000007/fl-20200201x10k.htm,225,
+2020,75,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000085020921000003/fl-20210130x10k.htm,248,4.0
+2021,68,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000085020922000003/fl-20220129x10k.htm,250,-7.0
+2022,65,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000085020923000006/fl-20230128x10k.htm,244,-3.0
+2023,65,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm,245,0.0
+2024,59,Share of all merchandise purchases from Nike,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm,246,-6.0

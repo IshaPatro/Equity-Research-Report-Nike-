@@ -1,0 +1,9 @@
+company,fiscal_year,fiscal_year_end,currency,unit,nike_brand_wholesale,nike_brand_direct,nike_brand_total,direct_share_of_wholesale_plus_direct_pct,nike_inc_gross_margin_pct,source_url,wholesale_md_line,direct_md_line,gross_margin_md_line
+Nike,2019,2019-05-31,USD,millions,25423.0,11753.0,37218.0,31.61,44.7,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm,901,902,718
+Nike,2020,2020-05-31,USD,millions,23156.0,12382.0,35568.0,34.84,43.4,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm,901,902,718
+Nike,2021,2021-05-31,USD,millions,25898.0,16370.0,42293.0,38.73,44.8,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm,903,904,870
+Nike,2022,2022-05-31,USD,millions,25608.0,18726.0,44436.0,42.24,46.0,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm,903,904,870
+Nike,2023,2023-05-31,USD,millions,27397.0,21308.0,48763.0,43.75,43.5,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm,903,904,870
+Nike,2024,2024-05-31,USD,millions,27758.0,21519.0,49322.0,43.67,44.6,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm,899,900,868
+Nike,2025,2025-05-31,USD,millions,25883.0,18783.0,44714.0,42.05,42.7,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm,899,900,868
+Nike,2026,2026-05-31,USD,millions,27453.0,17720.0,45222.0,39.23,42.9,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm,899,900,868

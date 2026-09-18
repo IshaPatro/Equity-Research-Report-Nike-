@@ -1,0 +1,6 @@
+company,ticker,market_cap_usd,price_usd,observation_date,source_url,note,usable_for_current_price_target
+Nike,NKE,54963625984,37.05,,https://companiesmarketcap.com/footwear/largest-companies-by-market-cap/,Source CSV has no capture date; refresh before valuation,False
+Adidas,ADS.DE,29119808252,166.339,,https://companiesmarketcap.com/footwear/largest-companies-by-market-cap/,Source CSV has no capture date; refresh before valuation,False
+Deckers Brands,DECK,10968086528,80.54,,https://companiesmarketcap.com/footwear/largest-companies-by-market-cap/,Source CSV has no capture date; refresh before valuation,False
+On Holding,ONON,9180876800,27.47,,https://companiesmarketcap.com/footwear/largest-companies-by-market-cap/,Source CSV has no capture date; refresh before valuation,False
+PUMA,PUM.DE,3694260991,25.0954,,https://companiesmarketcap.com/footwear/largest-companies-by-market-cap/,Source CSV has no capture date; refresh before valuation,False

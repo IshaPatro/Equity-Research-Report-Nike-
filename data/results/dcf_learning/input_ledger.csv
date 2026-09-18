@@ -1,0 +1,8 @@
+input,value,unit,observation_date,source_url,note
+risk_free_rate_10y_usd,0.05,fraction,2026-09-15,https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve,Nominal 10-year Treasury par yield
+implied_us_equity_risk_premium,0.0414,fraction,2026-09-01,https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm,Trailing 12-month adjusted payout estimate
+shoe_industry_unlevered_beta,0.93,beta,2026-01,https://pages.stern.nyu.edu/adamodar/New_Home_Page/datafile/Betas.html,"Damodaran U.S. industry sample, 11 firms; relever for Nike's capital structure"
+comparison_price,36.22,USD/share,2026-09-15,https://finance.yahoo.com/quote/NKE/history/,Recorded project close
+debt_fair_value,6800000000.0,USD,2026-05-31,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm,sec2md debt note line 2113; May value used as proxy
+required_operating_cash,0.0,USD,2026-09-15,,Analyst assumption
+sentiment_cap,0.02,fraction,2026-09-15,,Uncalibrated analyst overlay cap

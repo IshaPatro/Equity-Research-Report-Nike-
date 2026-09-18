@@ -1,0 +1,232 @@
+ticker,period_end,duration,metric,value,currency,line_item,source_column,source_line,form,filing_date,source_url
+NKE,2019-05-31,annual,capital_expenditures,1119000000.0,USD,"Additions to property, plant and equipment",2019,1661,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,cash_from_operations,5903000000.0,USD,Cash provided (used) by operations,2019,1656,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,cost_of_revenue,21643000000.0,USD,Cost of sales,2019,1550,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,dividends_paid,1332000000.0,USD,Dividends — common and preferred,2019,1670,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,gross_profit,17474000000.0,USD,Gross profit,2019,1551,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,income_tax_expense,772000000.0,USD,Income tax expense,2019,1558,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,interest_paid,153000000.0,USD,"Interest, net of capitalized interest",2019,1679,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,net_income,4029000000.0,USD,NET INCOME,2019,1559,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,pretax_income,4801000000.0,USD,Income before income taxes,2019,1557,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,revenue,39117000000.0,USD,Revenues,2019,1549,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,selling_general_admin,12702000000.0,USD,Total selling and administrative expense,2019,1554,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,stock_based_compensation,325000000.0,USD,Stock-based compensation,2019,1648,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,weighted_average_basic_shares,1579700000.0,shares,Basic,2019,1564,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,annual,weighted_average_diluted_shares,1618400000.0,shares,Diluted,2019,1565,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2019-05-31,instant,accounts_payable,2612000000.0,USD,Accounts payable,2019,1718,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,accounts_receivable,4272000000.0,USD,"Accounts receivable, net",2019,1704,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,cash_and_equivalents,4466000000.0,USD,Cash and equivalents,2019,1702,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,class_a_shares_outstanding,315000000.0,shares,Class A shares outstanding,"MAY 31, — 2019",1576,10-K,2019-07-23,https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/nke-531201910k.htm
+NKE,2019-05-31,instant,class_b_shares_outstanding,1253000000.0,shares,Class B shares outstanding,"MAY 31, — 2019",1577,10-K,2019-07-23,https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/nke-531201910k.htm
+NKE,2019-05-31,instant,current_assets,16525000000.0,USD,Total current assets,2019,1707,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,current_debt,6000000.0,USD,Current portion of long-term debt,2019,1716,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,current_liabilities,7866000000.0,USD,Total current liabilities,2019,1722,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,inventory,5622000000.0,USD,Inventories,2019,1705,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,noncurrent_debt,3464000000.0,USD,Long-term debt,2019,1723,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,other_current_assets,1968000000.0,USD,Prepaid expenses and other current assets,2019,1706,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,other_current_liabilities,5010000000.0,USD,Accrued liabilities,2019,1720,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2019-05-31,instant,short_term_investments,197000000.0,USD,Short-term investments,2019,1703,10-K,2020-07-24,https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm
+NKE,2020-05-31,annual,capital_expenditures,1086000000.0,USD,"Additions to property, plant and equipment",2020,1617,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,cash_from_operations,2485000000.0,USD,Cash provided (used) by operations,2020,1612,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,cost_of_revenue,21162000000.0,USD,Cost of sales,2020,1506,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,dividends_paid,1452000000.0,USD,Dividends — common and preferred,2020,1626,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,gross_profit,16241000000.0,USD,Gross profit,2020,1507,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,income_tax_expense,348000000.0,USD,Income tax expense,2020,1514,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,interest_paid,140000000.0,USD,"Interest, net of capitalized interest",2020,1635,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,net_income,2539000000.0,USD,NET INCOME,2020,1515,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,pretax_income,2887000000.0,USD,Income before income taxes,2020,1513,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,revenue,37403000000.0,USD,Revenues,2020,1505,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,selling_general_admin,13126000000.0,USD,Total selling and administrative expense,2020,1510,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,stock_based_compensation,429000000.0,USD,Stock-based compensation,2020,1604,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,weighted_average_basic_shares,1558800000.0,shares,Basic,2020,1520,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,annual,weighted_average_diluted_shares,1591600000.0,shares,Diluted,2020,1521,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2020-05-31,instant,accounts_payable,2248000000.0,USD,Accounts payable,2020,1613,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,accounts_receivable,2749000000.0,USD,"Accounts receivable, net",2020,1599,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,cash_and_equivalents,8348000000.0,USD,Cash and equivalents,2020,1597,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,class_a_shares_outstanding,315000000.0,shares,Class A shares outstanding,2020,1625,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,class_b_shares_outstanding,1243000000.0,shares,Class B shares outstanding,2020,1626,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,current_assets,20556000000.0,USD,Total current assets,2020,1602,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,current_debt,3000000.0,USD,Current portion of long-term debt,2020,1611,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,current_lease_liabilities,445000000.0,USD,Current portion of operating lease liabilities,2020,1614,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,current_liabilities,8284000000.0,USD,Total current liabilities,2020,1617,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,inventory,7367000000.0,USD,Inventories,2020,1600,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,noncurrent_debt,9406000000.0,USD,Long-term debt,2020,1618,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,noncurrent_lease_liabilities,2913000000.0,USD,Operating lease liabilities,2020,1619,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,other_current_assets,1653000000.0,USD,Prepaid expenses and other current assets,2020,1601,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,other_current_liabilities,5184000000.0,USD,Accrued liabilities,2020,1615,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2020-05-31,instant,short_term_investments,439000000.0,USD,Short-term investments,2020,1598,10-K,2021-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm
+NKE,2021-05-31,annual,capital_expenditures,695000000.0,USD,"Additions to property, plant and equipment",2021,1667,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,cash_from_operations,6657000000.0,USD,Cash provided (used) by operations,2021,1662,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,cost_of_revenue,24576000000.0,USD,Cost of sales,2021,1556,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,dividends_paid,1638000000.0,USD,Dividends — common and preferred,2021,1675,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,gross_profit,19962000000.0,USD,Gross profit,2021,1557,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,income_tax_expense,934000000.0,USD,Income tax expense,2021,1564,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,interest_paid,293000000.0,USD,"Interest, net of capitalized interest",2021,1684,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,net_income,5727000000.0,USD,NET INCOME,2021,1565,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,pretax_income,6661000000.0,USD,Income before income taxes,2021,1563,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,revenue,44538000000.0,USD,Revenues,2021,1555,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,selling_general_admin,13025000000.0,USD,Total selling and administrative expense,2021,1560,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,stock_based_compensation,611000000.0,USD,Stock-based compensation,2021,1654,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,weighted_average_basic_shares,1573000000.0,shares,Basic,2021,1570,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,annual,weighted_average_diluted_shares,1609400000.0,shares,Diluted,2021,1571,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2021-05-31,instant,accounts_payable,2836000000.0,USD,Accounts payable,2021,1569,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,accounts_receivable,4463000000.0,USD,"Accounts receivable, net",2021,1555,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,cash_and_equivalents,9889000000.0,USD,Cash and equivalents,2021,1553,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,class_a_shares_outstanding,305000000.0,shares,Class A shares outstanding,2021,1581,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,class_b_shares_outstanding,1273000000.0,shares,Class B shares outstanding,2021,1582,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,current_assets,26291000000.0,USD,Total current assets,2021,1558,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,current_lease_liabilities,467000000.0,USD,Current portion of operating lease liabilities,2021,1570,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,current_liabilities,9674000000.0,USD,Total current liabilities,2021,1573,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,inventory,6854000000.0,USD,Inventories,2021,1556,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,noncurrent_debt,9413000000.0,USD,Long-term debt,2021,1574,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,noncurrent_lease_liabilities,2931000000.0,USD,Operating lease liabilities,2021,1575,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,other_current_assets,1498000000.0,USD,Prepaid expenses and other current assets,2021,1557,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,other_current_liabilities,6063000000.0,USD,Accrued liabilities,2021,1571,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2021-05-31,instant,short_term_investments,3587000000.0,USD,Short-term investments,2021,1554,10-K,2022-07-21,https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm
+NKE,2022-05-31,annual,capital_expenditures,758000000.0,USD,"Additions to property, plant and equipment",2022,1714,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,cash_from_operations,5188000000.0,USD,Cash provided (used) by operations,2022,1709,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,cost_of_revenue,25231000000.0,USD,Cost of sales,2022,1603,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,dividends_paid,1837000000.0,USD,Dividends — common and preferred,2022,1722,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,gross_profit,21479000000.0,USD,Gross profit,2022,1604,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,income_tax_expense,605000000.0,USD,Income tax expense,2022,1611,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,interest_paid,290000000.0,USD,"Interest, net of capitalized interest",2022,1731,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,net_income,6046000000.0,USD,NET INCOME,2022,1612,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,pretax_income,6651000000.0,USD,Income before income taxes,2022,1610,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,revenue,46710000000.0,USD,Revenues,2022,1602,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,selling_general_admin,14804000000.0,USD,Total selling and administrative expense,2022,1607,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,stock_based_compensation,638000000.0,USD,Stock-based compensation,2022,1701,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,weighted_average_basic_shares,1578800000.0,shares,Basic,2022,1617,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,annual,weighted_average_diluted_shares,1610800000.0,shares,Diluted,2022,1618,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2022-05-31,instant,accounts_payable,3358000000.0,USD,Accounts payable,2022,1619,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,accounts_receivable,4667000000.0,USD,"Accounts receivable, net",2022,1605,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,cash_and_equivalents,8574000000.0,USD,Cash and equivalents,2022,1603,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,class_a_shares_outstanding,305000000.0,shares,Class A shares outstanding,2022,1631,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,class_b_shares_outstanding,1266000000.0,shares,Class B shares outstanding,2022,1632,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,current_assets,28213000000.0,USD,Total current assets,2022,1608,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,current_debt,500000000.0,USD,Current portion of long-term debt,2022,1617,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,current_lease_liabilities,420000000.0,USD,Current portion of operating lease liabilities,2022,1620,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,current_liabilities,10730000000.0,USD,Total current liabilities,2022,1623,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,inventory,8420000000.0,USD,Inventories,2022,1606,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,noncurrent_debt,8920000000.0,USD,Long-term debt,2022,1624,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,noncurrent_lease_liabilities,2777000000.0,USD,Operating lease liabilities,2022,1625,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,other_current_assets,2129000000.0,USD,Prepaid expenses and other current assets,2022,1607,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,other_current_liabilities,6220000000.0,USD,Accrued liabilities,2022,1621,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2022-05-31,instant,short_term_investments,4423000000.0,USD,Short-term investments,2022,1604,10-K,2023-07-20,https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm
+NKE,2023-05-31,annual,capital_expenditures,969000000.0,USD,"Additions to property, plant and equipment",2023,1751,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,cash_from_operations,5841000000.0,USD,Cash provided (used) by operations,2023,1746,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,cost_of_revenue,28925000000.0,USD,Cost of sales,2023,1640,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,depreciation_amortization,703000000.0,USD,Depreciation and amortization,2023,1736,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,dividends_paid,2012000000.0,USD,Dividends — common and preferred,2023,1759,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,gross_profit,22292000000.0,USD,Gross profit,2023,1641,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,income_tax_expense,1131000000.0,USD,Income tax expense,2023,1648,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,interest_paid,347000000.0,USD,"Interest, net of capitalized interest",2023,1768,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,net_income,5070000000.0,USD,NET INCOME,2023,1649,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,pretax_income,6201000000.0,USD,Income before income taxes,2023,1647,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,revenue,51217000000.0,USD,Revenues,2023,1639,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,selling_general_admin,16377000000.0,USD,Total selling and administrative expense,2023,1644,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,stock_based_compensation,755000000.0,USD,Stock-based compensation,2023,1738,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,weighted_average_basic_shares,1551600000.0,shares,Basic,2023,1654,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,annual,weighted_average_diluted_shares,1569800000.0,shares,Diluted,2023,1655,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2023-05-31,instant,accounts_payable,2862000000.0,USD,Accounts payable,2023,1666,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,accounts_receivable,4131000000.0,USD,"Accounts receivable, net",2023,1652,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,cash_and_equivalents,7441000000.0,USD,Cash and equivalents,2023,1650,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,class_a_shares_outstanding,305000000.0,shares,Class A shares outstanding,2023,1678,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,class_b_shares_outstanding,1227000000.0,shares,Class B shares outstanding,2023,1679,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,current_assets,25202000000.0,USD,Total current assets,2023,1655,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,current_lease_liabilities,425000000.0,USD,Current portion of operating lease liabilities,2023,1667,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,current_liabilities,9256000000.0,USD,Total current liabilities,2023,1670,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,inventory,8454000000.0,USD,Inventories,2023,1653,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,noncurrent_debt,8927000000.0,USD,Long-term debt,2023,1671,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,noncurrent_lease_liabilities,2786000000.0,USD,Operating lease liabilities,2023,1672,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,other_current_assets,1942000000.0,USD,Prepaid expenses and other current assets,2023,1654,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,other_current_liabilities,5723000000.0,USD,Accrued liabilities,2023,1668,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2023-05-31,instant,short_term_investments,3234000000.0,USD,Short-term investments,2023,1651,10-K,2024-07-25,https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm
+NKE,2024-05-31,annual,capital_expenditures,812000000.0,USD,"Additions to property, plant and equipment",2024,1706,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,cash_from_operations,7429000000.0,USD,Cash provided (used) by operations,2024,1701,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,cost_of_revenue,28475000000.0,USD,Cost of sales,2024,1596,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,depreciation_amortization,796000000.0,USD,Depreciation and amortization,2024,1691,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,dividends_paid,2169000000.0,USD,Dividends — common and preferred,2024,1713,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,gross_profit,22887000000.0,USD,Gross profit,2024,1597,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,income_tax_expense,1000000000.0,USD,Income tax expense,2024,1604,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,interest_paid,381000000.0,USD,"Interest, net of capitalized interest",2024,1722,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,net_income,5700000000.0,USD,NET INCOME,2024,1605,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,pretax_income,6700000000.0,USD,Income before income taxes,2024,1603,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,revenue,51362000000.0,USD,Revenues,2024,1595,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,selling_general_admin,16576000000.0,USD,Total selling and administrative expense,2024,1600,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,stock_based_compensation,804000000.0,USD,Stock-based compensation,2024,1693,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,weighted_average_basic_shares,1517600000.0,shares,Basic,2024,1610,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,annual,weighted_average_diluted_shares,1529700000.0,shares,Diluted,2024,1611,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2024-05-31,instant,accounts_payable,2851000000.0,USD,Accounts payable,2024,1703,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,accounts_receivable,4427000000.0,USD,"Accounts receivable, net",2024,1689,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,cash_and_equivalents,9860000000.0,USD,Cash and equivalents,2024,1687,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,class_a_shares_outstanding,298000000.0,shares,Class A shares outstanding,2024,1715,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,class_b_shares_outstanding,1205000000.0,shares,Class B shares outstanding,2024,1716,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,current_assets,25382000000.0,USD,Total current assets,2024,1692,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,current_debt,1000000000.0,USD,Current portion of long-term debt,2024,1701,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,current_lease_liabilities,477000000.0,USD,Current portion of operating lease liabilities,2024,1704,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,current_liabilities,10593000000.0,USD,Total current liabilities,2024,1707,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,inventory,7519000000.0,USD,Inventories,2024,1690,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,noncurrent_debt,7903000000.0,USD,Long-term debt,2024,1708,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,noncurrent_lease_liabilities,2566000000.0,USD,Operating lease liabilities,2024,1709,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,other_current_assets,1854000000.0,USD,Prepaid expenses and other current assets,2024,1691,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,other_current_liabilities,5725000000.0,USD,Accrued liabilities,2024,1705,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2024-05-31,instant,short_term_investments,1722000000.0,USD,Short-term investments,2024,1688,10-K,2025-07-17,https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm
+NKE,2025-05-31,annual,capital_expenditures,430000000.0,USD,"Additions to property, plant and equipment",2025,1706,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,cash_from_operations,3698000000.0,USD,Cash provided (used) by operations,2025,1701,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,cost_of_revenue,26519000000.0,USD,Cost of sales,2025,1596,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,depreciation_amortization,775000000.0,USD,Depreciation and amortization,2025,1691,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,dividends_paid,2300000000.0,USD,Dividends — common and preferred,2025,1713,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,gross_profit,19790000000.0,USD,Gross profit,2025,1597,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,income_tax_expense,666000000.0,USD,Income tax expense,2025,1604,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,interest_paid,389000000.0,USD,"Interest, net of capitalized interest",2025,1722,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,net_income,3219000000.0,USD,NET INCOME,2025,1605,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,pretax_income,3885000000.0,USD,Income before income taxes,2025,1603,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,revenue,46309000000.0,USD,Revenues,2025,1595,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,selling_general_admin,16088000000.0,USD,Total selling and administrative expense,2025,1600,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,stock_based_compensation,709000000.0,USD,Stock-based compensation,2025,1693,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,weighted_average_basic_shares,1484900000.0,shares,Basic,2025,1610,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,annual,weighted_average_diluted_shares,1487600000.0,shares,Diluted,2025,1611,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,accounts_payable,3479000000.0,USD,Accounts payable,2025,1658,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,accounts_receivable,4717000000.0,USD,"Accounts receivable, net",2025,1645,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,cash_and_equivalents,7464000000.0,USD,Cash and equivalents,2025,1643,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,class_a_shares_outstanding,290000000.0,shares,Class A shares outstanding,2025,1670,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,class_b_shares_outstanding,1186000000.0,shares,Class B shares outstanding,2025,1671,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,current_assets,23362000000.0,USD,Total current assets,2025,1648,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,current_lease_liabilities,502000000.0,USD,Current portion of operating lease liabilities,2025,1659,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,current_liabilities,10566000000.0,USD,Total current liabilities,2025,1662,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,inventory,7489000000.0,USD,Inventories,2025,1646,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,noncurrent_debt,7961000000.0,USD,Long-term debt,2025,1663,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,noncurrent_lease_liabilities,2550000000.0,USD,Operating lease liabilities,2025,1664,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,other_current_assets,2005000000.0,USD,Prepaid expenses and other current assets,2025,1647,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,other_current_liabilities,5916000000.0,USD,Accrued liabilities,2025,1660,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2025-05-31,instant,short_term_investments,1687000000.0,USD,Short-term investments,2025,1644,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,capital_expenditures,684000000.0,USD,"Additions to property, plant and equipment","YEAR ENDED MAY 31, — 2026",1706,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,cash_from_operations,2868000000.0,USD,Cash provided (used) by operations,"YEAR ENDED MAY 31, — 2026",1701,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,cost_of_revenue,26487000000.0,USD,Cost of sales,"YEAR ENDED MAY 31, — 2026",1596,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,depreciation_amortization,747000000.0,USD,Depreciation and amortization,"YEAR ENDED MAY 31, — 2026",1691,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,dividends_paid,2407000000.0,USD,Dividends — common and preferred,"YEAR ENDED MAY 31, — 2026",1713,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,gross_profit,19911000000.0,USD,Gross profit,"YEAR ENDED MAY 31, — 2026",1597,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,income_tax_expense,792000000.0,USD,Income tax expense,"YEAR ENDED MAY 31, — 2026",1604,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,interest_paid,323000000.0,USD,"Interest, net of capitalized interest","YEAR ENDED MAY 31, — 2026",1722,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,net_income,3108000000.0,USD,NET INCOME,"YEAR ENDED MAY 31, — 2026",1605,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,pretax_income,3900000000.0,USD,Income before income taxes,"YEAR ENDED MAY 31, — 2026",1603,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,revenue,46398000000.0,USD,Revenues,"YEAR ENDED MAY 31, — 2026",1595,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,selling_general_admin,16114000000.0,USD,Total selling and administrative expense,"YEAR ENDED MAY 31, — 2026",1600,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,stock_based_compensation,715000000.0,USD,Stock-based compensation,"YEAR ENDED MAY 31, — 2026",1693,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,weighted_average_basic_shares,1479800000.0,shares,Basic,"YEAR ENDED MAY 31, — 2026",1610,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,annual,weighted_average_diluted_shares,1481000000.0,shares,Diluted,"YEAR ENDED MAY 31, — 2026",1611,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,accounts_payable,3600000000.0,USD,Accounts payable,"MAY 31, — 2026",1658,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,accounts_receivable,5931000000.0,USD,"Accounts receivable, net","MAY 31, — 2026",1645,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,cash_and_equivalents,7563000000.0,USD,Cash and equivalents,"MAY 31, — 2026",1643,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,class_a_shares_outstanding,281000000.0,shares,Class A shares outstanding,"MAY 31, — 2026",1670,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,class_b_shares_outstanding,1202000000.0,shares,Class B shares outstanding,"MAY 31, — 2026",1671,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,current_assets,24603000000.0,USD,Total current assets,"MAY 31, — 2026",1648,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,current_debt,2000000000.0,USD,Current portion of long-term debt,"MAY 31, — 2026",1657,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,current_lease_liabilities,478000000.0,USD,Current portion of operating lease liabilities,"MAY 31, — 2026",1659,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,current_liabilities,12547000000.0,USD,Total current liabilities,"MAY 31, — 2026",1662,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,inventory,7501000000.0,USD,Inventories,"MAY 31, — 2026",1646,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,noncurrent_debt,5942000000.0,USD,Long-term debt,"MAY 31, — 2026",1663,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,noncurrent_lease_liabilities,2613000000.0,USD,Operating lease liabilities,"MAY 31, — 2026",1664,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,other_current_assets,2144000000.0,USD,Prepaid expenses and other current assets,"MAY 31, — 2026",1647,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,other_current_liabilities,6092000000.0,USD,Accrued liabilities,"MAY 31, — 2026",1660,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm
+NKE,2026-05-31,instant,short_term_investments,1464000000.0,USD,Short-term investments,"MAY 31, — 2026",1644,10-K,2026-07-15,https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm

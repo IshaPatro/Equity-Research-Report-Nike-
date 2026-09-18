@@ -1,0 +1,24 @@
+{
+  "model": "stepwise_dcf_v2",
+  "valuation_time": "2026-09-15T16:00:00-04:00",
+  "generated_at_utc": "2026-09-18T18:42:28.840646+00:00",
+  "approximate_balance_bridge": true,
+  "tables": [
+    "historical_anchors",
+    "assumptions",
+    "wacc",
+    "forecast",
+    "terminal_schedule",
+    "fundamental_valuation",
+    "sensitivity",
+    "sentiment_articles",
+    "sentiment_publisher_days",
+    "sentiment_summary",
+    "final_prices",
+    "input_ledger",
+    "nke_price_history",
+    "price_target_summary",
+    "rating_summary",
+    "sec_fact_audit"
+  ]
+}

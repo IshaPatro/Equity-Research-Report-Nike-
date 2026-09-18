@@ -1,0 +1,2 @@
+weighted_sentiment,adjustment_fraction,cap_fraction,lookback_days,half_life_days,publisher_day_count,minimum_sample_met
+0.06988058429345065,0.001397611685869013,0.02,90,30,36,True

@@ -1,0 +1,4 @@
+input,value,unit,observation_date,source_url,note
+risk_free_rate_10y_usd,0.05,fraction,2026-09-15,https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve,Nominal 10-year Treasury par yield
+implied_us_equity_risk_premium,0.0414,fraction,2026-09-01,https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm,Trailing 12-month adjusted payout estimate
+shoe_industry_unlevered_beta,0.93,beta,2026-01,https://pages.stern.nyu.edu/adamodar/New_Home_Page/datafile/Betas.html,"Damodaran U.S. industry sample, 11 firms; relever for Nike's capital structure"

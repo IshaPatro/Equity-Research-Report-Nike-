@@ -1,0 +1,72 @@
+ticker,period_end,duration,metric,value,currency,line_item,source_column,source_line,form,filing_date,source_url
+FL,2016-02-02,annual,cash_from_operations,844000000.0,USD,Net cash provided by operating activities,2016,1437,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,cost_of_revenue,5130000000.0,USD,Cost of sales,2016,1269,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,depreciation_amortization,158000000.0,USD,Depreciation and amortization,2016,1426,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,income_tax_expense,340000000.0,USD,Income tax expense,2016,1277,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,net_income,664000000.0,USD,Net income,2016,1278,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,operating_income,1000000000.0,USD,Income from operations,2016,1273,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,pretax_income,1004000000.0,USD,Income before income taxes,2016,1276,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2016-02-02,annual,selling_general_admin,1472000000.0,USD,"Selling, general and administrative expenses",2016,1270,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,cash_from_operations,813000000.0,USD,Net cash provided by operating activities,2017,1437,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,cost_of_revenue,5326000000.0,USD,Cost of sales,2017,1269,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,depreciation_amortization,173000000.0,USD,Depreciation and amortization,2017,1426,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,income_tax_expense,294000000.0,USD,Income tax expense,2017,1277,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,net_income,284000000.0,USD,Net income,2017,1278,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,operating_income,571000000.0,USD,Income from operations,2017,1273,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,pretax_income,578000000.0,USD,Income before income taxes,2017,1276,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,annual,selling_general_admin,1501000000.0,USD,"Selling, general and administrative expenses",2017,1270,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,instant,accounts_payable,258000000.0,USD,Accounts payable,2017,1339,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,instant,cash_and_equivalents,849000000.0,USD,Cash and cash equivalents,2017,1327,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,instant,noncurrent_debt,125000000.0,USD,Long-term debt,2017,1342,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2017-02-02,instant,other_current_assets,424000000.0,USD,Other current assets,2017,1329,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,cash_from_operations,781000000.0,USD,Net cash provided by operating activities,2018,1437,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,cost_of_revenue,5411000000.0,USD,Cost of sales,2018,1269,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,depreciation_amortization,178000000.0,USD,Depreciation and amortization,2018,1426,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,income_tax_expense,172000000.0,USD,Income tax expense,2018,1277,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,net_income,541000000.0,USD,Net income,2018,1278,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,operating_income,699000000.0,USD,Income from operations,2018,1273,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,pretax_income,713000000.0,USD,Income before income taxes,2018,1276,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,annual,selling_general_admin,1614000000.0,USD,"Selling, general and administrative expenses",2018,1270,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,instant,accounts_payable,387000000.0,USD,Accounts payable,2018,1339,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,instant,cash_and_equivalents,891000000.0,USD,Cash and cash equivalents,2018,1327,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,instant,noncurrent_debt,124000000.0,USD,Long-term debt,2018,1342,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2018-02-02,instant,other_current_assets,358000000.0,USD,Other current assets,2018,1329,10-K,2019-04-02,https://www.sec.gov/Archives/edgar/data/850209/000155837019002753/fl-20190202x10k.htm
+FL,2021-02-03,annual,cost_of_revenue,5878000000.0,USD,Cost of sales,"2021 — $ 8,958",1294,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2021-02-03,annual,operating_income,870000000.0,USD,Income from operations,"2021 — $ 8,958",1298,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2021-02-03,annual,selling_general_admin,1851000000.0,USD,"Selling, general and administrative expenses","2021 — $ 8,958",1295,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-01,annual,cash_from_operations,173000000.0,USD,Net cash provided by operating activities,2022,1470,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,cost_of_revenue,5955000000.0,USD,Cost of sales,"2022 — $ 8,747",1288,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,depreciation_amortization,208000000.0,USD,Depreciation and amortization,2022,1456,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,income_tax_expense,180000000.0,USD,Income tax expense (benefit),"2022 — $ 8,747",1297,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,interest_paid,17000000.0,USD,Interest paid,2022,1497,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,operating_income,581000000.0,USD,Income from operations,"2022 — $ 8,747",1292,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-01,annual,selling_general_admin,1903000000.0,USD,"Selling, general and administrative expenses","2022 — $ 8,747",1289,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2022-02-03,annual,cash_from_operations,173000000.0,USD,Net cash provided by operating activities,2022,1478,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-03,annual,cost_of_revenue,5955000000.0,USD,Cost of sales,"2022 — $ 8,747",1294,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-03,annual,depreciation_amortization,208000000.0,USD,Depreciation and amortization,2022,1467,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-03,annual,interest_paid,17000000.0,USD,Interest paid,2022,1507,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-03,annual,operating_income,581000000.0,USD,Income from operations,"2022 — $ 8,747",1298,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2022-02-03,annual,selling_general_admin,1903000000.0,USD,"Selling, general and administrative expenses","2022 — $ 8,747",1295,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-01,annual,cost_of_revenue,5895000000.0,USD,Cost of sales,"2023 — $ 8,154",1288,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2023-02-01,annual,income_tax_expense,93000000.0,USD,Income tax expense (benefit),"2023 — $ 8,154",1297,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2023-02-01,annual,operating_income,142000000.0,USD,Income from operations,"2023 — $ 8,154",1292,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2023-02-01,annual,selling_general_admin,1852000000.0,USD,"Selling, general and administrative expenses","2023 — $ 8,154",1289,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2023-02-03,annual,cash_from_operations,91000000.0,USD,Net cash provided by operating activities,2023,1478,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-03,annual,cost_of_revenue,5895000000.0,USD,Cost of sales,"2023 — $ 8,154",1294,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-03,annual,depreciation_amortization,199000000.0,USD,Depreciation and amortization,2023,1467,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-03,annual,interest_paid,18000000.0,USD,Interest paid,2023,1507,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-03,annual,operating_income,142000000.0,USD,Income from operations,"2023 — $ 8,154",1298,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2023-02-03,annual,selling_general_admin,1852000000.0,USD,"Selling, general and administrative expenses","2023 — $ 8,154",1295,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2024-02-01,annual,cash_from_operations,345000000.0,USD,Net cash provided by operating activities,2024,1470,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,cost_of_revenue,5666000000.0,USD,Cost of sales,"2024 — $ 7,971",1288,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,depreciation_amortization,202000000.0,USD,Depreciation and amortization,2024,1456,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,income_tax_expense,33000000.0,USD,Income tax expense (benefit),"2024 — $ 7,971",1297,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,interest_paid,22000000.0,USD,Interest paid,2024,1497,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,operating_income,103000000.0,USD,Income from operations,"2024 — $ 7,971",1292,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-01,annual,selling_general_admin,1920000000.0,USD,"Selling, general and administrative expenses","2024 — $ 7,971",1289,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2024-02-03,instant,accounts_payable,366000000.0,USD,Accounts payable,"February 3, — 2024",1379,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2024-02-03,instant,cash_and_equivalents,297000000.0,USD,Cash and cash equivalents,"February 3, — 2024",1363,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2024-02-03,instant,other_current_assets,419000000.0,USD,Other current assets,"February 3, — 2024",1365,10-K,2024-03-28,https://www.sec.gov/Archives/edgar/data/850209/000143774924009866/floc20240203_10k.htm
+FL,2025-02-01,instant,accounts_payable,378000000.0,USD,Accounts payable,"February 1, — 2025",1374,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2025-02-01,instant,cash_and_equivalents,401000000.0,USD,Cash and cash equivalents,"February 1, — 2025",1357,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
+FL,2025-02-01,instant,other_current_assets,323000000.0,USD,Other current assets,"February 1, — 2025",1360,10-K,2025-03-27,https://www.sec.gov/Archives/edgar/data/850209/000143774925009620/floc20241213_10k.htm
