@@ -1,0 +1,14 @@
+company,fiscal_year,fiscal_year_end,currency,unit,wholesale_revenue,direct_revenue,total_revenue,direct_share_pct,scope,source_url,wholesale_md_line,direct_md_line,direct_share_recalculated
+Deckers,2019,2019-03-31,USD,millions,185.057,38.092,223.149,17.07,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052119000011/deck331201910-kdocument.htm,1227,1228,17.070208694639007
+Deckers,2020,2020-03-31,USD,millions,277.097,75.527,352.624,21.42,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052120000016/deck331202010-k.htm,1334,1335,21.418564816915467
+Deckers,2021,2021-03-31,USD,millions,405.243,165.997,571.24,29.06,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052121000017/deck-20210331.htm,1083,1084,29.059064491282125
+Deckers,2022,2022-03-31,USD,millions,628.674,262.92,891.594,29.49,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052122000017/deck-20220331.htm,1045,1046,29.488758336193378
+Deckers,2023,2023-03-31,USD,millions,925.877,487.039,1412.916,34.47,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052123000016/deck-20230331.htm,1011,1012,34.47048515269132
+Deckers,2024,2024-03-31,USD,millions,1126.126,680.614,1806.74,37.67,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052124000017/deck-20240331.htm,1060,1061,37.67083254923232
+Deckers,2025,2025-03-31,USD,millions,1397.776,835.314,2233.09,37.41,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000091052125000017/deck-20250331.htm,1030,1031,37.40619500333618
+Deckers,2026,2026-03-31,USD,millions,1651.794,935.536,2587.33,36.16,Deckers reported channel series,https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm,3243,3244,36.15835629780507
+On,2021,2021-12-31,CHF,millions,448.8,275.8,724.6,38.06,On consolidated; all products,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000012/onholdingag-20231231.htm,1367,1368,38.06237924372067
+On,2022,2022-12-31,CHF,millions,777.0,445.1,1222.1,36.42,On consolidated; all products,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000012/onholdingag-20231231.htm,1367,1368,36.4209148187546
+On,2023,2023-12-31,CHF,millions,1120.3,671.8,1792.1,37.49,On consolidated; all products,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm,1384,1385,37.48674739132861
+On,2024,2024-12-31,CHF,millions,1375.5,942.8,2318.3,40.67,On consolidated; all products,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm,1384,1385,40.66773066471121
+On,2025,2025-12-31,CHF,millions,1753.4,1260.5,3014.0,41.82,On consolidated; all products,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm,1384,1385,41.821499668215

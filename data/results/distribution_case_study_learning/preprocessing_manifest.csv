@@ -1,0 +1,16 @@
+file,rows,source_scope,currency_policy
+data/preprocess/case_study/equity_price_history.csv,5127,raw Yahoo Finance adjusted closes,USD per share
+data/preprocess/case_study/foot_locker_nike_concentration.csv,6,raw SEC filing Markdown,reported currency
+data/preprocess/case_study/nike_channel_history.csv,8,raw SEC filing Markdown,reported currency
+data/preprocess/case_study/peer_channel_history.csv,13,raw SEC filing Markdown,reported currency
+data/preprocess/clean_facts.csv,685,raw SEC DCF facts,reported currency
+data/preprocess/foot_locker_financial_facts.csv,71,raw SEC DCF facts,USD
+data/preprocess/forex_chf_usd_clean.csv,1486,raw Yahoo Finance CHFUSD=X,USD per CHF
+data/preprocess/historical_annual.csv,9,raw SEC DCF facts,reported currency
+data/preprocess/historical_annual_usd.csv,9,historical_annual plus raw CHF/USD,USD
+data/preprocess/latest_balance.csv,3,raw SEC DCF facts,reported currency
+data/preprocess/latest_balance_usd.csv,3,latest_balance plus raw CHF/USD,USD
+data/preprocess/latest_ltm.csv,3,raw SEC DCF facts,reported currency
+data/preprocess/latest_ltm_usd.csv,3,latest_ltm plus raw CHF/USD,USD
+data/preprocess/market_snapshot_undated.csv,5,raw peer snapshot,USD prices and market caps
+data/preprocess/wacc_reference.csv,3,raw market input references,mixed units

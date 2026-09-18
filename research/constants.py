@@ -18,6 +18,7 @@ COMPANY_COLORS = {
     "Nike": NIKE,
     "Deckers": DECKERS,
     "On": ON,
+    "Foot Locker": FOOT_LOCKER,
 }
 
 CHANNEL_COLORS = {
@@ -37,13 +38,15 @@ EVENT_COLORS = {
     "strategy": "#FFB454",
     "retailer": "#55A7FF",
     "leadership": "#C58CFF",
+    "transition": "#E714E7",
     "macro": "#FF5F7A",
+    "execution": "#8B1E3F",
 }
 
 SCENARIO_COLORS = {
-    "bear": "#9AA7B8",
+    "bear": "#FF5F7A",
     "base": "#F7D154",
-    "bull": "#55A7FF",
+    "bull": "#31C48D",
 }
 
 VALUATION_COLORS = {
@@ -51,7 +54,7 @@ VALUATION_COLORS = {
     "gross_margin": "#C58CFF",
     "operating_margin": "#F7D154",
     "fcff": "#25C2F5",
-    "pv_fcff": "#55A7FF",
+    "pv_fcff": "#E714E7",
     "explicit_value": "#55A7FF",
     "terminal_value": "#C58CFF",
     "fundamental_value": "#F7D154",
@@ -63,7 +66,7 @@ VALUATION_COLORS = {
     "working_capital": "#C58CFF",
 }
 
-HEATMAP_COLORS = ["#171C24", "#1B3B6F", "#6D5BA8", "#F7D154"]
+HEATMAP_COLORS = ["#4A0033", "#E714E7", "#C58CFF", "#310066"]
 
 SIGNAL_COLORS = {
     "buy": "#31C48D",

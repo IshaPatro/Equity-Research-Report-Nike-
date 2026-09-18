@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Nike equity research dashboard: valuation, forecasts, distribution shift, catalysts and sources." />
+    <title>Nike Equity Research | September 2026</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar" aria-label="Research sections">
+      <a class="brand" href="#overview" aria-label="Nike equity research overview">
+        <span class="brand-mark"><img src="../data/logo/nike.png" width="2000" height="2000" alt="Nike" /></span>
+        <span><strong>NKE</strong><small>Equity Research</small></span>
+      </a>
+      <nav id="nav">
+        <a class="active" href="#overview"><span>01</span>Overview</a>
+        <a href="#thesis"><span>02</span>Investment thesis</a>
+        <a href="#valuation"><span>03</span>Valuation</a>
+        <a href="#forecast"><span>04</span>Operating forecast</a>
+        <a href="#distribution"><span>05</span>CDA case study</a>
+        <a href="#risks"><span>06</span>Risks & catalysts</a>
+        <a href="#sources"><span>07</span>Sources</a>
+      </nav>
+      <div class="sidebar-foot">
+        <span>As of 15 Sep 2026</span>
+        <span>USD unless stated</span>
+      </div>
+    </aside>
+
+    <button class="mobile-nav" id="mobileNav" aria-label="Open navigation" aria-expanded="false">Menu</button>
+
+    <main>
+      <section id="overview" class="section overview-section">
+        <header class="report-header">
+          <div>
+            <div class="eyebrow">Consumer discretionary / footwear</div>
+            <h1>NIKE, Inc.</h1>
+            <p class="lede">A recovery valuation with little room for execution error.</p>
+          </div>
+          <div class="report-meta">
+            <span>NYSE: NKE</span>
+            <span>DCF + channel research</span>
+            <span>15 Sep 2026</span>
+          </div>
+        </header>
+
+        <div class="metric-strip">
+          <article><span>Reference price</span><strong>$36.22</strong><small>Adjusted close</small></article>
+          <article><span>Base target</span><strong>$40.10</strong><small>12-month framework</small></article>
+          <article><span>Implied upside</span><strong class="positive">+10.7%</strong><small>Below Buy threshold</small></article>
+          <article><span>Rating</span><strong class="hold">HOLD</strong><small>Buy at ≥15% upside</small></article>
+          <article><span>Base WACC</span><strong>8.76%</strong><small>CAPM-derived</small></article>
+          <article><span>Terminal value</span><strong>73.8%</strong><small>Of enterprise value</small></article>
+        </div>
+        <div class="analysis-points">
+          <p><b>Rating:</b> Hold. The $40.10 base target offers 10.7% upside, below the 15% Buy threshold.</p>
+          <p><b>Core debate:</b> The market needs evidence that product velocity and wholesale productivity can recover together.</p>
+          <p><b>Earnings driver:</b> Margin repair matters more than aggressive revenue growth in the base case.</p>
+          <p><b>Primary risk:</b> A broad wholesale rebuild could restore volume while weakening full-price economics.</p>
+        </div>
+
+        <div class="dashboard-grid overview-grid">
+          <article class="panel price-panel">
+            <div class="panel-head">
+              <div><span class="kicker">Market and valuation</span><h2>Price target range</h2></div>
+              <div class="legend inline"><span class="bear-dot">Bear</span><span class="base-dot">Base</span><span class="bull-dot">Bull</span></div>
+            </div>
+            <img class="research-figure" src="../data/results/dcf_learning/overall_price_target.png" width="1938" height="898" alt="Nike adjusted close and bear, base, and bull DCF price target range" />
+            <p class="chart-note">Targets are sentiment-adjusted DCF outputs. The price path is intentionally not simulated in the dashboard.</p>
+          </article>
+
+          <article class="panel rating-panel">
+            <div class="panel-head"><div><span class="kicker">Recommendation</span><h2>Overall rating</h2></div></div>
+            <img class="research-figure rating-figure" src="../data/results/dcf_learning/overall_rating.png" width="992" height="738" alt="Overall DCF rating gauge showing Hold with 10.7 percent upside" />
+            <div class="rating-scale"><span>SELL<br><b>&lt; -15%</b></span><span>HOLD<br><b>-15% to +15%</b></span><span>BUY<br><b>&gt; +15%</b></span></div>
+            <div class="signal-box"><span class="signal hold-signal">Neutral</span><p>Valuation recognizes recovery, but the base case does not clear the required return hurdle.</p></div>
+          </article>
+        </div>
+
+        <div class="analyst-line">
+          <span>Analyst view</span>
+          <p>The market already prices part of the turnaround. The debate is less about survival and more about the pace of margin repair, wholesale re-engagement, and sustainable running-product momentum.</p>
+        </div>
+      </section>
+
+      <section id="thesis" class="section">
+        <div class="section-title"><div><span class="section-number">02</span><h2>Investment thesis</h2></div><p>Three questions define the recommendation.</p></div>
+        <div class="thesis-grid">
+          <article class="thesis-card">
+            <span class="thesis-index">01 / Demand</span>
+            <h3>Can product velocity return?</h3>
+            <p>Base revenue growth rebuilds from 2.0% in FY2027 to 3.5% in FY2029 before normalizing. That is a measured recovery, not a return to peak-category dominance.</p>
+            <div class="thesis-tag neutral">Base case: gradual</div>
+          </article>
+          <article class="thesis-card">
+            <span class="thesis-index">02 / Margin</span>
+            <h3>Can scale become earnings again?</h3>
+            <p>Operating margin is modeled at 9.0% in FY2027 and 12.0% by FY2031, still below FY2024's 12.3%. The valuation requires repair without assuming a new peak.</p>
+            <div class="thesis-tag positive-bg">Evidence required</div>
+          </article>
+          <article class="thesis-card">
+            <span class="thesis-index">03 / Channel</span>
+            <h3>Can wholesale trust be rebuilt?</h3>
+            <p>Competitors compounded into physical distribution while Nike emphasized direct channels. “Win Now” must improve shelf presence without recreating promotional inventory pressure.</p>
+            <div class="thesis-tag negative-bg">Execution risk</div>
+          </article>
+        </div>
+        <div class="evidence-table-wrap panel">
+          <table class="research-table">
+            <thead><tr><th>Debate</th><th>Evidence in the model</th><th>What changes the view</th><th>Current read</th></tr></thead>
+            <tbody>
+              <tr><td>Top-line recovery</td><td>2.0%–3.5% base growth through FY2031</td><td>Running launches and wholesale sell-through</td><td><span class="status neutral-status">Unproven</span></td></tr>
+              <tr><td>Margin repair</td><td>9.0% to 12.0% operating margin</td><td>Full-price mix, tariffs, product costs</td><td><span class="status positive-status">Possible</span></td></tr>
+              <tr><td>Channel reset</td><td>Direct mix fell to 39.2% in FY2026</td><td>Partner doors, allocation depth, inventory</td><td><span class="status neutral-status">Early</span></td></tr>
+              <tr><td>Valuation support</td><td>$40.10 base target; 10.7% upside</td><td>Lower WACC or stronger terminal economics</td><td><span class="status neutral-status">Balanced</span></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section id="valuation" class="section">
+        <div class="section-title"><div><span class="section-number">03</span><h2>Valuation</h2></div><p>Scenario DCF with a small, capped sentiment overlay.</p></div>
+        <div class="analysis-points analysis-points-numbered">
+          <p><b>Recommendation:</b> Hold. The base target provides 10.7% upside, below the 15% Buy hurdle.</p>
+          <p><b>Base value:</b> $40.10 per share at 8.76% WACC and 2.0% perpetual growth.</p>
+          <p><b>What breaks it:</b> A sustained 7.5%–9.0% margin range produces the $25.62 bear case.</p>
+          <p><b>What changes it:</b> A credible path to 14% FY2031 margin supports the $52.85 bull case.</p>
+        </div>
+        <div class="decision-split">
+          <div class="decision-table">
+            <span class="kicker">Scenario decision table</span>
+            <table class="research-table">
+              <thead><tr><th>Case</th><th>Value</th><th>Key requirement</th><th>Investment read</th></tr></thead>
+              <tbody>
+                <tr><td>Bear</td><td class="negative">$25.62</td><td>7.5%–9.0% operating margin persists</td><td>Turnaround fails to earn its cost of capital</td></tr>
+                <tr><td>Base</td><td class="hold">$40.10</td><td>12.0% FY2031 margin; 2.0% terminal growth</td><td>Recovery is recognized, but upside is insufficient for Buy</td></tr>
+                <tr><td>Bull</td><td class="positive">$52.85</td><td>14.0% FY2031 margin; 2.5% terminal growth</td><td>Requires sustained product and channel execution</td></tr>
+              </tbody>
+            </table>
+            <div class="micro-pointers"><span><b>Terminal exposure</b>73.8% of enterprise value</span><span><b>Most sensitive inputs</b>WACC, terminal growth, margin</span><span><b>Sentiment overlay</b>0.14%, capped and non-fundamental</span></div>
+            <div class="analyst-line">
+              <span>Analyst view</span>
+              <p>Valuation is not saying Nike is cheap; it is saying the market already gives partial credit for a recovery. The missing proof is durable earnings quality: product-led demand, full-price sell-through, and a wholesale rebuild that does not add markdown risk.</p>
+            </div>
+          </div>
+          <div class="decision-sidebar">
+            <article class="decision-chart">
+              <div class="panel-head"><div><span class="kicker">Supporting evidence</span><h3>Sensitivity: WACC vs. terminal growth</h3></div><span class="unit">USD / share</span></div>
+              <img class="research-figure" src="../data/results/dcf_learning/sensitivity.png" width="1296" height="818" alt="DCF value per share sensitivity to WACC and terminal growth" />
+              <p class="chart-note">Base cell: 8.76% WACC and 2.0% terminal growth. Use this chart to pressure-test the table, not to select an assumption without a business rationale.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="forecast" class="section">
+        <div class="section-title"><div><span class="section-number">04</span><h2>Operating forecast</h2></div><p>A conservative recovery path, shown explicitly.</p></div>
+        <div class="analysis-points analysis-points-numbered">
+          <p><b>Revenue:</b> 2.8% FY2026–FY2031 CAGR; no return to historic category-growth assumptions.</p>
+          <p><b>Margin:</b> 8.2% to 12.0%; recovery still ends below FY2024’s 12.3% operating margin.</p>
+          <p><b>Cash flow:</b> FCFF reaches $4.79B in FY2031, with execution relying on normalized working capital.</p>
+          <p><b>Disconfirming signal:</b> Higher wholesale volume with falling gross margin would weaken the forecast quality.</p>
+        </div>
+        <div class="decision-split">
+          <div class="decision-table">
+            <span class="kicker">Base-case operating bridge</span>
+            <div class="table-scroll"><table class="research-table forecast-table"><thead><tr><th></th><th>FY2026A</th><th>FY2027E</th><th>FY2028E</th><th>FY2029E</th><th>FY2030E</th><th>FY2031E</th></tr></thead><tbody>
+            <tr><td>Revenue</td><td>46.40</td><td>47.33</td><td>48.75</td><td>50.45</td><td>51.97</td><td>53.26</td></tr>
+            <tr><td>Growth</td><td>0.2%</td><td>2.0%</td><td>3.0%</td><td>3.5%</td><td>3.0%</td><td>2.5%</td></tr>
+            <tr><td>Operating margin</td><td>8.2%</td><td>9.0%</td><td>10.0%</td><td>11.0%</td><td>11.5%</td><td>12.0%</td></tr>
+            <tr><td>NOPAT</td><td>3.03</td><td>3.32</td><td>3.80</td><td>4.33</td><td>4.66</td><td>4.99</td></tr>
+            <tr><td>FCFF</td><td>2.02</td><td>3.17</td><td>3.59</td><td>4.08</td><td>4.44</td><td>4.79</td></tr>
+            </tbody></table></div>
+            <div class="micro-pointers"><span><b>Margin repair</b>+380 bps from FY2026</span><span><b>Revenue growth</b>Peaks at 3.5% in FY2029</span><span><b>Cash conversion</b>FCFF grows faster than revenue</span></div>
+            <div class="analyst-line">
+              <span>Analyst view</span>
+              <p>The model asks for 382 basis points of operating-margin recovery by FY2031 while revenue grows only 2.8% annually. Margin execution is therefore the primary earnings lever and the clearest source of forecast risk.</p>
+            </div>
+          </div>
+          <div class="decision-sidebar">
+            <article class="decision-chart">
+              <div class="panel-head"><div><span class="kicker">Supporting evidence</span><h3>Operating-margin path</h3></div><span class="unit">Percent</span></div>
+              <img class="research-figure" src="../data/results/dcf_learning/forecast_operating_margin.png" width="1298" height="738" alt="Nike base-case operating margin forecast through FY2031" />
+              <p class="chart-note">The central operating call is margin recovery, not exceptional revenue growth. The chart exists to test that explicit forecast path.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="distribution" class="section">
+        <div class="section-title"><div><span class="section-number">05</span><h2>CDA case study</h2></div><p>How competitors captured wholesale growth while Nike prioritized Direct.</p></div>
+        <div class="case-summary">
+          <div class="case-heading">
+            <span class="kicker">FY2021–FY2024 wholesale evidence</span>
+            <h3>Competitors compounded through the channel Nike de-emphasized</h3>
+            <p>Nike’s Consumer Direct Acceleration increased owned-channel emphasis. Public filings show a sharp divergence in reported wholesale growth after FY2021, alongside retailer diversification.</p>
+          </div>
+          <div class="capture-metrics">
+            <div class="capture deckers-capture"><span>Deckers</span><strong>+178%</strong><small>40.6% CAGR</small></div>
+            <div class="capture on-capture"><span>On</span><strong>+206%</strong><small>45.3% CAGR</small></div>
+            <div class="capture nike-capture"><span>Nike</span><strong>+7.2%</strong><small>2.3% CAGR</small></div>
+          </div>
+        </div>
+        <div class="case-evidence">
+          <div><span>01 / Strategic move</span><strong>Direct mix +12.1 pts</strong><p>Nike Direct share rose from 31.6% in FY2019 to 43.8% in FY2023.</p></div>
+          <div><span>02 / Retail response</span><strong>Foot Locker −16 pts</strong><p>Nike’s share of Foot Locker merchandise purchases fell from 75% in 2020 to 59% in 2024.</p></div>
+          <div><span>03 / Competitor capture</span><strong>40%–45% CAGR</strong><p>Deckers and On expanded reported wholesale revenue far faster than Nike from FY2021 to FY2024.</p></div>
+          <div><span>04 / Recovery signal</span><strong>Direct mix −4.5 pts</strong><p>Nike Direct share reset from its FY2023 peak to 39.2% in FY2026 as wholesale returned to focus.</p></div>
+        </div>
+        <div class="decision-split case-decision">
+          <div class="decision-table">
+            <span class="kicker">Competitor capture: FY2021–FY2024</span>
+            <table class="research-table">
+              <thead><tr><th>Company</th><th>Wholesale growth</th><th>Wholesale CAGR</th><th>Research interpretation</th></tr></thead>
+              <tbody>
+                <tr><td>Deckers</td><td class="positive">+178%</td><td>40.6%</td><td>Specialty-running distribution grew rapidly while Nike de-emphasized the channel.</td></tr>
+                <tr><td>On</td><td class="positive">+206%</td><td>45.3%</td><td>Strong wholesale expansion is consistent with new-door and category momentum.</td></tr>
+                <tr><td>Nike</td><td class="hold">+7.2%</td><td>2.3%</td><td>Wholesale grew far more slowly through the same comparison period.</td></tr>
+              </tbody>
+            </table>
+            <div class="micro-pointers"><span><b>Evidence strength</b>Clear divergence in disclosed channel growth</span><span><b>What it does not prove</b>A one-for-one transfer of Nike sales</span><span><b>Other drivers</b>Innovation, category growth, and fiscal calendars</span></div>
+            <div class="analyst-line">
+              <span>Analyst view</span>
+              <p>Deckers and On did not merely grow alongside Nike: their disclosed wholesale revenue grew 40%–45% annually from FY2021 to FY2024 while Nike grew 2.3%. This is strong evidence of channel opportunity being available to competitors, but it remains correlation rather than a measured transfer of Nike demand.</p>
+            </div>
+          </div>
+          <div class="decision-sidebar">
+            <article class="decision-chart">
+              <div class="panel-head"><div><span class="kicker">Supporting evidence</span><h3>Competitors scaled into wholesale</h3></div><span class="unit">Index: first available year = 100</span></div>
+              <img class="research-figure" src="../data/results/distribution_case_study_learning/wholesale_index.png" width="1618" height="898" alt="Indexed wholesale revenue growth for Deckers, Nike, and On from 2019 through 2024" />
+              <p class="chart-note">Deckers and Nike index from 2019; On indexes from 2021, its first comparable year. The chart compares growth rather than absolute revenue.</p>
+            </article>
+          </div>
+        </div>
+
+        <div class="decision-split case-decision">
+          <div class="decision-table">
+            <span class="kicker">Marketplace reset: what changed</span>
+            <table class="research-table">
+              <thead><tr><th>Indicator</th><th>Then</th><th>Now</th><th>Research interpretation</th></tr></thead>
+              <tbody>
+                <tr><td>Nike Direct share</td><td>31.6% FY2019</td><td class="hold">43.8% FY2023 peak</td><td>Consumer Direct Acceleration materially increased owned-channel mix.</td></tr>
+                <tr><td>Nike Direct share</td><td>43.8% FY2023 peak</td><td class="positive">39.2% FY2026</td><td>Mix reset signals the wholesale rebuild; it does not yet prove door productivity.</td></tr>
+                <tr><td>Foot Locker Nike purchase share</td><td>75% in 2020</td><td class="negative">59% in 2024</td><td>Retailer diversification created space for alternative performance brands.</td></tr>
+                <tr><td>Nike wholesale revenue</td><td>$25.9B FY2025</td><td class="positive">$27.5B FY2026</td><td>Early recovery is visible, but must be tested against full-price sell-through.</td></tr>
+              </tbody>
+            </table>
+            <div class="micro-pointers"><span><b>Retail evidence</b>Foot Locker concentration fell 16 points</span><span><b>Recovery test</b>Growth with stable gross margin and inventory</span><span><b>Key monitor</b>Productive doors and independent sell-through</span></div>
+            <div class="analyst-line">
+              <span>Analyst view</span>
+              <p>Nike’s Direct mix has already fallen from its FY2023 peak, while FY2026 wholesale revenue increased 6.1%. The next proof point is quality: sales must grow through productive doors without a new round of inventory pressure or gross-margin erosion.</p>
+            </div>
+          </div>
+          <div class="decision-sidebar">
+            <article class="decision-chart">
+              <div class="panel-head"><div><span class="kicker">Supporting evidence</span><h3>Foot Locker’s Nike concentration</h3></div><span class="unit">% of purchases</span></div>
+              <img class="research-figure" src="../data/results/distribution_case_study_learning/foot_locker.png" width="1298" height="658" alt="Foot Locker share of merchandise purchases from Nike" />
+              <p class="chart-note">A lower vendor share is consistent with retailer diversification after allocations fell. It does not, by itself, prove that consumers shifted brands.</p>
+            </article>
+          </div>
+        </div>
+
+        <div class="event-timeline panel">
+          <div class="panel-head"><div><span class="kicker">Strategic timeline</span><h3>Decisions, disruption, response</h3></div></div>
+          <div class="timeline-track">
+            <article><time>JUN 2020</time><span class="event-dot strategy-event"></span><h4>Consumer Direct Acceleration</h4><p>Nike prioritizes owned digital, direct channels, and selected strategic partners.</p></article>
+            <article><time>FEB 2022</time><span class="event-dot retailer-event"></span><h4>Foot Locker diversifies</h4><p>The retailer says Nike will represent a lower share of merchandise purchases.</p></article>
+            <article><time>OCT 2024</time><span class="event-dot transition-event"></span><h4>Elliott Hill returns</h4><p>Leadership shifts toward marketplace restoration and product-led growth.</p></article>
+            <article><time>APR 2025</time><span class="event-dot macro-event"></span><h4>“Liberation Day” tariffs</h4><p>Import-cost pressure raises the hurdle for gross-margin recovery.</p></article>
+            <article><time>SEP 2025</time><span class="event-dot execution-event"></span><h4>Win Now priorities</h4><p>Running and wholesale relationships move to the front of the reset.</p></article>
+          </div>
+        </div>
+  
+          <img class="research-figure" src="../data/results/distribution_case_study_learning/equity_prices_with_events.png" width="2258" height="1058" alt="Nike, Deckers, and On indexed share prices with selected strategic event markers" />
+          <p class="chart-note">The price paths show market context around the strategic milestones. They are descriptive: the data do not establish that any event caused a specific price move.</p>
+        <div class="analyst-line">
+          <span>What to watch</span>
+          <p>Track wholesale growth together with gross margin and inventory. Wholesale acceleration is constructive only if it reflects productive doors and sell-through rather than broader distribution followed by markdowns.</p>
+        </div>
+      </section>
+
+      <section id="risks" class="section">
+        <div class="section-title"><div><span class="section-number">06</span><h2>Risks & catalysts</h2></div><p>The signposts that can move the price target.</p></div>
+        <div class="risk-grid">
+          <div class="risk-column">
+            <h3><span class="signal negative-signal">Downside</span> Key risks</h3>
+            <article><span>01</span><div><h4>Margin recovery stalls</h4><p>Promotions, tariffs, and elevated product costs keep operating margin below the modeled path.</p></div></article>
+            <article><span>02</span><div><h4>Wholesale rebuild dilutes brand</h4><p>Distribution expands faster than full-price demand, recreating excess inventory.</p></div></article>
+            <article><span>03</span><div><h4>Running innovation lags</h4><p>Deckers and On retain specialty-door momentum and shelf productivity.</p></div></article>
+            <article><span>04</span><div><h4>Terminal assumptions compress</h4><p>A 9.76% WACC and 1.0% terminal growth imply roughly $34.24 per share.</p></div></article>
+          </div>
+          <div class="risk-column">
+            <h3><span class="signal positive-signal">Upside</span> Catalysts</h3>
+            <article><span>01</span><div><h4>Running sell-through inflects</h4><p>New franchises improve full-price velocity across specialty and key accounts.</p></div></article>
+            <article><span>02</span><div><h4>Gross margin absorbs tariffs</h4><p>Pricing, sourcing, and freight productivity support faster EBIT recovery.</p></div></article>
+            <article><span>03</span><div><h4>Partner doors deepen</h4><p>Better assortments and allocations rebuild wholesale without channel conflict.</p></div></article>
+            <article><span>04</span><div><h4>Cash conversion normalizes</h4><p>Inventory and receivables discipline release working capital into FCFF.</p></div></article>
+          </div>
+        </div>
+        <div class="monitor-panel panel">
+          <div><span>Quarterly monitor</span><strong>Revenue growth</strong><small>Leading demand signal</small></div>
+          <div><span>Quarterly monitor</span><strong>Gross margin</strong><small>Pricing and tariff read-through</small></div>
+          <div><span>Quarterly monitor</span><strong>Inventory growth</strong><small>Promotion risk</small></div>
+          <div><span>Annual monitor</span><strong>Wholesale mix</strong><small>Marketplace restoration</small></div>
+        </div>
+      </section>
+
+      <section id="sources" class="section sources-section">
+        <div class="section-title"><div><span class="section-number">07</span><h2>Sources & methodology</h2></div><p>Primary sources first; dates and limitations are explicit.</p></div>
+        <div class="source-grid">
+          <article class="source-group"><h3>Filings & financial data</h3>
+            <a href="https://www.sec.gov/search-filings" target="_blank" rel="noreferrer"><span>SEC EDGAR</span><small>Nike, Deckers, On Holding, Foot Locker filings</small></a>
+            <a href="https://github.com/lucasastorian/sec2md" target="_blank" rel="noreferrer"><span>sec2md</span><small>SEC filing-to-Markdown conversion</small></a>
+            <a href="https://query2.finance.yahoo.com/v8/finance/chart/NKE" target="_blank" rel="noreferrer"><span>Yahoo Finance chart API</span><small>NKE, DECK and ONON adjusted close</small></a>
+          </article>
+          <article class="source-group"><h3>Valuation inputs</h3>
+            <a href="https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve" target="_blank" rel="noreferrer"><span>U.S. Treasury</span><small>15 Sep 2026 nominal 10-year yield</small></a>
+            <a href="https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm" target="_blank" rel="noreferrer"><span>Damodaran</span><small>Implied equity risk premium</small></a>
+            <a href="https://pages.stern.nyu.edu/adamodar/New_Home_Page/datafile/Betas.html" target="_blank" rel="noreferrer"><span>Damodaran industry data</span><small>Shoe-industry unlevered beta</small></a>
+          </article>
+          <article class="source-group"><h3>Strategy & channel evidence</h3>
+            <a href="https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2020/Nike-Announces-Senior-Leadership-Changes-to-Unlock-Future-Growth-Through-the-Consumer-Direct-Acceleration/default.aspx" target="_blank" rel="noreferrer"><span>Nike CDA announcement</span><small>June 2020 direct-channel strategy</small></a>
+            <a href="https://investors.footlocker-inc.com/news-releases/news-release-details/foot-locker-inc-reports-2021-fourth-quarter-and-full-year" target="_blank" rel="noreferrer"><span>Foot Locker FY2021 results</span><small>Vendor diversification disclosure</small></a>
+            <a href="https://runningindustry.org/news/ria-report-running-specialty-sees-solid-gains-in-2022" target="_blank" rel="noreferrer"><span>Running Industry Association</span><small>Specialty-running channel context</small></a>
+          </article>
+          <article class="source-group"><h3>Events & current framework</h3>
+            <a href="https://about.nike.com/en/newsroom/releases/nike-inc-announces-return-of-long-time-nike-veteran-elliott-hill-as-president-and-ceo" target="_blank" rel="noreferrer"><span>Nike leadership announcement</span><small>Elliott Hill appointment</small></a>
+            <a href="https://www.whitehouse.gov/fact-sheets/2025/04/fact-sheet-president-donald-j-trump-declares-national-emergency-to-increase-our-competitive-edge-protect-our-sovereignty-and-strengthen-our-national-and-economic-security/" target="_blank" rel="noreferrer"><span>White House tariff announcement</span><small>2 Apr 2025 event marker</small></a>
+            <a href="https://investors.nike.com/investors/news-events-and-reports/investor-news/investor-news-details/2026/NIKE-Inc--Reports-Fiscal-2026-Fourth-Quarter-and-Full-Year-Results/default.aspx" target="_blank" rel="noreferrer"><span>Nike FY2026 results</span><small>Latest reported operating context</small></a>
+          </article>
+        </div>
+        <div class="disclosure">
+          <p><strong>Methodology:</strong> DCF values are derived from unlevered free cash flow, scenario-specific WACC and perpetual-growth assumptions. News sentiment applies only a 0.14% capped adjustment after fundamental valuation; it does not change operating forecasts.</p>
+          <p><strong>Limitations:</strong> This is an educational research dashboard, not investment advice. Company fiscal years differ. Indexed channel charts compare growth rates and do not imply equal revenue scale. Data cut-off is 15 Sep 2026.</p>
+        </div>
+      </section>
+
+      <footer><span>Nike Equity Research</span><span>Fundamentals first. Assumptions visible.</span><span>15 Sep 2026</span></footer>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
