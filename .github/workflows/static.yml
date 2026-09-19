@@ -29,10 +29,10 @@ jobs:
       - name: Assemble site artifact
         run: |
           mkdir -p _site/docs _site/data
-          cp -R docs/. _site/docs/
+          cp index.html _site/index.html
+          cp docs/styles.css docs/app.js _site/docs/
           cp -R data/results _site/data/results
           cp -R data/logo _site/data/logo
-          printf '%s\n' '<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=docs/"><title>Nike Equity Research</title></head><body><a href="docs/">Open dashboard</a></body></html>' > _site/index.html
           touch _site/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
